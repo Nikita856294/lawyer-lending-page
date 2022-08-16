@@ -5,7 +5,7 @@
   "homepage": "https://Nikita856294.github.io/lawyer-lending-page",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /lawyer-lending-page/"
   },
   "repository": {
     "type": "git",
