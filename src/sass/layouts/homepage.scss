@@ -1,0 +1,39 @@
+.homepage {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+
+.card-owner {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.card-img {
+  width: 480px;
+  height: 300px;
+}
+
+.card-box-text {
+  padding: 15px;
+  width: 490px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  display: flex;
+  flex
+}
