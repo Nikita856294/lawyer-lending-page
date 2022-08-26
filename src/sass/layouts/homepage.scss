@@ -65,12 +65,14 @@
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  
 }
 
 .item {
   flex-basis: calc((100% - 30px) / 3);
-  border-bottom: 5px;
-  border-color: black;
+  border: solid;
+  border-color:yellow;
+  padding:15px;
 }
 
 .item-img {
@@ -81,7 +83,7 @@
   padding: 15px;
   align-items: center;
   justify-content: center;
-  width: 400px;
+  
 }
 
 .item-text {

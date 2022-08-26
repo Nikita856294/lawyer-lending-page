@@ -1,0 +1,45 @@
+.information-list{
+    display: flex;
+    flex-direction:column;
+}
+
+.information-box__image{
+    margin-right:20px
+}
+
+.information-image{
+    width:480px;
+    height: 360px;
+}
+
+.information-quote__image{
+    width:480px;
+    height:360px;
+}
+
+.information-item{
+    display:flex;
+
+}
+
+.information-item:not(:last-child){
+    margin-bottom:15px;
+}
+
+.information-box{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+    align-items: center;
+}
+
+.information-text{
+    font-family: Raleway;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight:500;
+}
+
+.information-quote{
+    background-image: url("../images/background/1.jpg");
+}
