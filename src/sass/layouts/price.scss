@@ -1,0 +1,20 @@
+.price-box__img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price-img{
+    width:480px;
+    height:360px;
+}
+
+.price-list{
+    display:flex;
+    flex-direction: column;
+    margin-top:20px;
+}
+
+.price-item:not(:last-child){
+margin-bottom:15px;
+}
