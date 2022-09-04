@@ -1,4 +1,4 @@
-4774
+4775
 91D:\GitHub\lawyer-lending-page\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133051431368926188 0
 100D:\GitHub\lawyer-lending-page\node_modules\node-releases\data\release-schedule\release-schedule.json133051431324668414 0
 65D:\GitHub\lawyer-lending-page\node_modules\xxhash-wasm\types.d.ts133051431330858855 0
@@ -20,7 +20,7 @@
 105D:\GitHub\lawyer-lending-page\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed133051431334414282 1
 77D:\GitHub\lawyer-lending-page\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133051431338916675 0
 98D:\GitHub\lawyer-lending-page\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133051431339995513 0
-48D:\GitHub\lawyer-lending-page\src\sass\main.scss133061967310441657 0
+48D:\GitHub\lawyer-lending-page\src\sass\main.scss133062000413831374 0
 85D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\script-defer.js133051431347341884 0
 37D:\GitHub\lawyer-lending-page\.github133051428914430615 1
 47D:\GitHub\lawyer-lending-page\node_modules\.bin133051431981277869 1
@@ -73,7 +73,7 @@
 60D:\GitHub\lawyer-lending-page\node_modules\readdirp\index.js133051431317418268 0
 78D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\webgl.js133051431349182104 0
 105D:\GitHub\lawyer-lending-page\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional.ps1133051431981277869 0
-34D:\GitHub\lawyer-lending-page\dist133061971459289005 1
+34D:\GitHub\lawyer-lending-page\dist133062613250424565 1
 42D:\GitHub\lawyer-lending-page\node_modules133059076151646806 1
 88D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\mutation-events.js133051431346265500 0
 52D:\GitHub\lawyer-lending-page\node_modules\callsites133051431317737418 1
@@ -183,7 +183,7 @@
 69D:\GitHub\lawyer-lending-page\node_modules\color-convert\CHANGELOG.md133051431317428253 0
 81D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\dist\unpacker\features.js133051431342846668 0
 62D:\GitHub\lawyer-lending-page\node_modules\is-json\.travis.yml133051431327800257 0
-53D:\GitHub\lawyer-lending-page\src\partials\price.html133052155921925105 0
+53D:\GitHub\lawyer-lending-page\src\partials\price.html133062003233111922 0
 76D:\GitHub\lawyer-lending-page\node_modules\@parcel\reporter-cli\src\emoji.js133051431349989947 0
 67D:\GitHub\lawyer-lending-page\node_modules\fastq\test\tsconfig.json133051431328939857 0
 70D:\GitHub\lawyer-lending-page\node_modules\source-map\lib\array-set.js133051431320265134 0
@@ -221,14 +221,14 @@
 83D:\GitHub\lawyer-lending-page\node_modules\csso\lib\replace\property\font-weight.js133051431335022654 0
 73D:\GitHub\lawyer-lending-page\node_modules\nan\nan_callbacks_pre_12_inl.h133051431324947678 0
 61D:\GitHub\lawyer-lending-page\node_modules\htmlnano\docs\docs133051431337111503 1
-79D:\GitHub\lawyer-lending-page\node_modules\cosmiconfig\dist\getDirectory.js.map133051431333774068 0
 56D:\GitHub\lawyer-lending-page\src\partials\homepage.html133057421080575696 0
+79D:\GitHub\lawyer-lending-page\node_modules\cosmiconfig\dist\getDirectory.js.map133051431333774068 0
 77D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\ping.js133051431346983571 0
 96D:\GitHub\lawyer-lending-page\node_modules\@babel\highlight\node_modules\supports-color\index.js133051431317547920 0
 73D:\GitHub\lawyer-lending-page\node_modules\@parcel\fs-search\package.json133051431355387427 0
 68D:\GitHub\lawyer-lending-page\node_modules\csso\lib\replace\color.js133051431333113168 0
 76D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\sni.js133051431347696092 0
-46D:\GitHub\lawyer-lending-page\src\sass\layouts133061965656342739 1
+46D:\GitHub\lawyer-lending-page\src\sass\layouts133061989786368253 1
 72D:\GitHub\lawyer-lending-page\node_modules\type-fest\source\mutable.d.ts133051431318186216 0
 63D:\GitHub\lawyer-lending-page\node_modules\posthtml-expressions133051431324267275 1
 65D:\GitHub\lawyer-lending-page\node_modules\js-tokens\package.json133051431317318536 0
@@ -250,13 +250,16 @@
 85D:\GitHub\lawyer-lending-page\node_modules\fast-glob\out\providers\filters\entry.d.ts133051431334332565 0
 53D:\GitHub\lawyer-lending-page\node_modules\json5\dist133051431330348607 1
 100D:\GitHub\lawyer-lending-page\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133051431336822275 0
-60D:\GitHub\lawyer-lending-page\src\sass\layouts\homepage.scss133059921137477099 0
+60D:\GitHub\lawyer-lending-page\src\sass\layouts\homepage.scss133062613248898492 0
 85D:\GitHub\lawyer-lending-page\node_modules\terser\node_modules\commander\package.json133051431368018607 0
+57D:\GitHub\lawyer-lending-page\src\sass\layouts\price.scss133062001133456593 0
+108D:\GitHub\lawyer-lending-page\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133051431335663187 0
+98D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133051431342726988 0
 62D:\GitHub\lawyer-lending-page\node_modules\cosmiconfig\LICENSE133051431329959646 0
 85D:\GitHub\lawyer-lending-page\node_modules\reusify\benchmarks\createNoCodeFunction.js133051431321033077 0
 82D:\GitHub\lawyer-lending-page\node_modules\terser\node_modules\commander\Readme.md133051431368048531 0
 60D:\GitHub\lawyer-lending-page\node_modules\csso\lib\index.js133051431335311889 0
-59D:\GitHub\lawyer-lending-page\src\sass\layouts\service.scss133061968917989144 0
+59D:\GitHub\lawyer-lending-page\src\sass\layouts\service.scss133061995848865150 0
 83D:\GitHub\lawyer-lending-page\node_modules\@parcel\transformer-js\native-browser.js133051431337051660 0
 53D:\GitHub\lawyer-lending-page\node_modules\color-name133051431317587820 1
 73D:\GitHub\lawyer-lending-page\node_modules\type-fest\ts41\snake-case.d.ts133051431318365162 0
@@ -295,7 +298,7 @@
 63D:\GitHub\lawyer-lending-page\node_modules\picocolors\README.md133051431324027916 0
 66D:\GitHub\lawyer-lending-page\node_modules\@parcel\fs\src\types.js133051431361222003 0
 68D:\GitHub\lawyer-lending-page\node_modules\weak-lru-cache\index.d.ts133051431319743915 0
-55D:\GitHub\lawyer-lending-page\src\partials\service.html133061971458209740 0
+55D:\GitHub\lawyer-lending-page\src\partials\service.html133061986941777356 0
 49D:\GitHub\lawyer-lending-page\node_modules\@lezer133051431308123766 1
 103D:\GitHub\lawyer-lending-page\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133051431367908916 0
 48D:\GitHub\lawyer-lending-page\src\images\cutaway133051444244159724 1
@@ -3549,8 +3552,6 @@
 82D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\es6-class.js133051431342707039 0
 68D:\GitHub\lawyer-lending-page\node_modules\@parcel\core\lib\index.js133051431364142982 0
 87D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\es6-generators.js133051431342717012 0
-108D:\GitHub\lawyer-lending-page\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133051431335663187 0
-98D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133051431342726988 0
 92D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\es6-string-includes.js133051431342756906 0
 94D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\extended-system-fonts.js133051431342796799 0
 87D:\GitHub\lawyer-lending-page\node_modules\caniuse-lite\data\features\feature-policy.js133051431342816746 0
@@ -4632,7 +4633,7 @@
 71D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\index.cjs133051431365904039 0
 72D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\index.d.ts133051431365983078 0
 70D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\index.js133051431365983078 0
-45D:\GitHub\lawyer-lending-page\dist\price.html133061960345524808 0
+45D:\GitHub\lawyer-lending-page\dist\price.html133062612888751496 0
 70D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\mix.d.ts133051431365983078 0
 72D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\parse.d.ts133051431365983078 0
 71D:\GitHub\lawyer-lending-page\node_modules\@lezer\common\dist\tree.d.ts133051431365983078 0
@@ -4769,7 +4770,7 @@
 58D:\GitHub\lawyer-lending-page\dist\information.2c3ec4f0.js133061960344374862 0
 62D:\GitHub\lawyer-lending-page\dist\information.2c3ec4f0.js.map133061960344531080 0
 51D:\GitHub\lawyer-lending-page\dist\information.html133061960344714963 0
-55D:\GitHub\lawyer-lending-page\dist\service.f7626f62.css133061968919295891 0
-59D:\GitHub\lawyer-lending-page\dist\service.f7626f62.css.map133061968919295891 0
-47D:\GitHub\lawyer-lending-page\dist\service.html133061971459258681 0
+55D:\GitHub\lawyer-lending-page\dist\service.f7626f62.css133062613250394989 0
+59D:\GitHub\lawyer-lending-page\dist\service.f7626f62.css.map133062613250394989 0
+47D:\GitHub\lawyer-lending-page\dist\service.html133062612888751496 0
 47D:\GitHub\lawyer-lending-page\.github\workflows133051428914430615 1
