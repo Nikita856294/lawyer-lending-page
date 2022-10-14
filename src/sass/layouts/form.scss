@@ -1,0 +1,91 @@
+.form-section{
+display: flex;
+justify-content: center;
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column; 
+    box-shadow: 4px 8px 5px 1px rgba(0,0,0,0.07);
+
+    padding:15px;
+}
+
+.form-input{
+    height:40px;
+    width:500px;
+    margin-bottom:15px;
+    opacity:0.5;
+}
+
+.form-label{
+    font-family: Quicksand; 
+    font-size: 16px;
+}
+
+
+.form-commentaries{
+   opacity:0.5;
+   resize:none;
+}
+
+.form-button{
+ padding:10px;
+ color:white;
+ background-color:black;
+ margin-top:10px;
+
+border-radius: 15px;
+
+}
+
+
+.contacts-list{
+    padding-top:50px;
+}
+
+.contacts-item{
+   
+    &:not(:last-child){
+        margin-bottom:15px;
+    }
+}
+
+.contacts-information{
+    padding-left:40px;
+    padding-right: 40px;
+}
+
+.contacts-title{
+    font-family: Raleway; 
+    font-size: 26px;
+    color:red;
+}
+
+
+.contacts-link{
+    display: flex;
+    align-items: center;
+    font-family: Raleway; 
+    font-size: 16px;
+    color:black;
+
+    &:hover{
+        color:orange;
+        fill:orange;
+    }
+}
+
+.contacts-text{
+    font-family: Raleway;
+    font-size:20px;
+    width:400px;
+}
+
+.contacts-icon{
+    width:20px;
+    height:20px;
+    margin-right:10px;
+}
+

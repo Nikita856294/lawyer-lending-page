@@ -1,6 +1,7 @@
 .header {
   display: flex;
   align-items: center;
+  justify-content: center;
   padding-top: 15px;
   padding-bottom: 15px;
   &-title-box {
@@ -10,11 +11,18 @@
   &-title {
     font-family: Raleway;
     font-size: 36px;
+    color:#C0C0C0;
   }
 
   &-icon {
     margin-right: 8px;
   }
+}
+
+.header-link{
+  display:flex;
+  align-items: center;
+
 }
 
 .nav {
@@ -26,9 +34,26 @@
   }
 
   &-link {
+    position: relative;
     font-family: Raleway;
     color: black;
     font-size: 20px;
+
+    &:hover{
+      &::after {
+        content: '';
+        bottom: -9px;
+        position: absolute;
+        display: block;
+    
+        left: 0;
+        width: 100%;
+        height: 4px;
+    
+        background-color: black;
+        border-radius: 2px;
+      }
+    }
   }
 
   &-link--current {
@@ -37,6 +62,7 @@
     color: black;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     padding: 20px;
+
   }
 
   &-link--current::after {
