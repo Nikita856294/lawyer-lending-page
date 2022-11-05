@@ -1,6 +1,25 @@
 .homepage {
+
+
+  // display: flex;
+  // flex-wrap: wrap;
+}
+
+.set-images__ganna {
+
+
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+ flex-direction: column;
+  // width: 100%;
+  // margin-bottom: 10px;
+ 
+}
+
+.worker {
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 
 .card {
@@ -24,16 +43,10 @@
   width: 300px;
 }
 
-.set-images__ganna {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 10px;
-  width: 100%;
-}
 
-.img-box:not(:last-child) {
-  margin-right: 15px;
+
+.img-box{ // :not(:last-child) 
+  margin-bottom: 15px;
 }
 
 .img-worker {
@@ -42,8 +55,11 @@
 }
 
 .img-cutaway {
-  width: 450px;
-  height: 300px;
+  // width: 450px;
+  // height: 300px;
+  
+    width:300px;
+    height: 200px;
 }
 
 .card-text {
@@ -56,15 +72,16 @@
   line-height: 24px;
 }
 
-.worker {
-  padding-bottom: 15px;
-  padding-top: 15px;
-}
+
 
 .list {
+
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  // flex-wrap: wrap;
+  // gap: 10px;
   
 }
 
